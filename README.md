@@ -1,6 +1,6 @@
 # GANS-text2image_Project
 [Repository](https://github.com/Divyanshsingh1910/GANS-text2image_Project)\
-This repository documents the submissions of assignments and final projects of the SNT Summer project named: GANS: Text2image
+This repository documents the submissions of assignments and final projects of the SNT Summer project named: GANS: Text2image.
 ***
 ## Week wise contents
 ### Week 1
